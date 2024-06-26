@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+vsrd/__init__.py
+vsrd/utils.py
+vsrd.egg-info/PKG-INFO
+vsrd.egg-info/SOURCES.txt
+vsrd.egg-info/dependency_links.txt
+vsrd.egg-info/top_level.txt
