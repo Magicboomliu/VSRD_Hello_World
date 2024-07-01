@@ -181,14 +181,12 @@ def sample_annotations_from_folder(args,folder_name=None):
 
 
 def main(args):
-    
     # root_path = args.root_dirname
     # class_names = args.class_names
     # num_instance_ratio = args.num_instance_ratio
     # num_source_frames = args.num_source_frames
     # min_mask_area = args.min_mask_area
     # min_box_size = args.min_box_size
-    
     sample_annotations_from_folder(args=args,folder_name="2013_05_28_drive_0000_sync")
     
 
